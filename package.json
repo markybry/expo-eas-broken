@@ -48,7 +48,6 @@
     "react-native-toast-message": "^1.4.9",
     "react-native-web": "0.17.1",
     "sentry-expo": "^4.0.3",
-    "vercel": "^23.1.2",
     "yup": "^0.32.8"
   },
   "devDependencies": {
