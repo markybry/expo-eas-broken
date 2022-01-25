@@ -1,0 +1,25 @@
+{
+  "name": "eMar",
+  "displayName": "eMar",
+  "expo": {
+    "name": "eMar",
+    "slug": "eMar",
+    "version": "1.0.0",
+    "privacy": "unlisted",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "description": "",
+    "extra": {
+      "configChannel": "development"
+    },
+    "scheme": "carefor-emar",
+    "android": {
+      "package": "com.markybry.eMar",
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "sdkVersion": "43.0.0"
+  }
+}
